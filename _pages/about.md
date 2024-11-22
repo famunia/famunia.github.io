@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About
-======
 
 I am a Nutrition & Food Engineering major at [Daffodil International University](https://daffodilvarsity.edu.bd/), with a deep-seated passion for **Health Data Management** with cutting edge technology and huge interest on **Machine Learning (ML) and Deep Learning (DL)**. My academic journey, which began with completing my SSC at [YWCA Higher Secondary Girl’s School](https://ywca.edu.bd/main/) and HSC at [University Women’s Federation College](https://www.uwfc.edu.bd/), has been marked by a strong focus on research, particularly in the areas of health science and technology.
 
