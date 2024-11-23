@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-I am a Nutrition & Food Engineering major at [Daffodil International University](https://daffodilvarsity.edu.bd/), with a deep-seated passion for **Health Data Management** with cutting edge technology and huge interest on **Machine Learning (ML) and Deep Learning (DL)**. My academic journey, which began with completing my SSC at [YWCA Higher Secondary Girl’s School](https://ywca.edu.bd/main/) and HSC at [University Women’s Federation College](https://www.uwfc.edu.bd/), has been marked by a strong focus on research, particularly in the areas of health science and technology.
+I am a Nutrition & Food Engineering major at [Daffodil International University](https://daffodilvarsity.edu.bd/), with a deep-seated passion for **Health Data Management** with cutting edge technology and huge interest on **Machine Learning (ML)** and **Deep Learning (DL)**. My academic journey, which began with completing my SSC at [YWCA Higher Secondary Girl’s School](https://ywca.edu.bd/main/) and HSC at [University Women’s Federation College](https://www.uwfc.edu.bd/), has been marked by a strong focus on research, particularly in the areas of health science and technology.
 
 Throughout my studies, I have cultivated a robust proficiency in public health, ML, and DL applying my knowledge to various research projects that address complex challenges in human health . My work in hybrid health data management model has allowed me to contribute to novel solutions that push the boundaries of what these technologies can achieve.
 
-In addition to my research endeavors, I have gained valuable experience as an Intern at on of the renowned hospital name [BIRDEM General Hospital](https://birdembd.org/). This role has further solidified my passion for public health and research, where I am committed to advancing the fields of health data management and deep learning through both research and education. My academic and professional goals are fueled by a desire to continuously learn, innovate, and share knowledge, with the aim of making meaningful contributions to the evolving landscape of medical technology.
+In addition to my research endeavors, I have gained valuable experience as an Intern at on of the renowned hospital in Bangladesh name [BIRDEM General Hospital](https://birdembd.org/). This role has further solidified my passion for public health and research, where I am committed to advancing the fields of health data management and deep learning through both research and education. My academic and professional goals are fueled by a desire to continuously learn, innovate, and share knowledge, with the aim of making meaningful contributions to the evolving landscape of medical technology.
 
 
 <!-- 
