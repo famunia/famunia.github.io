@@ -36,9 +36,3 @@ Skills
 * Programming : HTML, CSS, Bootstrap-5, jQuery, JavaScript, Python, SQL.
 * Others : Excellent verbal and written communication & presentation skills.
   
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
