@@ -7,52 +7,50 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} [Download](http://famunia.github.io/files/pcos_paper_1.pdf)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BSc in Nutrition & Food Engineering, Daffodil International University-DIU, 2023
+* Higher Secondary School Certificate in Science, University Women’s Federation College, 2019
+* Secondary School Certificate in Science, YWCA Higher Secondary Girl’s School, 2017
+
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2024 - Present: Trainee Dietitian
+  * Padma General Hospital, Dhaka, Bangladesh.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2023 - September 2023: Intern
+  * [BIRDEM General Hospital](https://birdembd.org/), Dhaka, Bangladesh.
+  * Title: "Nutritional Problems and Diet Planning of Hospitalized Patients"
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2021 - November 2021: Trainee
+  * Diet For Healthy Life, Dhaka, Bangladesh.
+  * Titel: "Therapeutic Nutrition and Dietetics"
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microsoft : MS Word, MS Excel, Power BI.
+* Programming : HTML, CSS, Bootstrap-5, jQuery, JavaScript, Python, SQL.
+* Others : Excellent verbal and written communication & presentation skills.
+  
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  <!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+  -->
   
+  <!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -62,3 +60,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->
