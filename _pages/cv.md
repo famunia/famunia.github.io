@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} [Download](http://famunia.github.io/files/pcos_paper_1.pdf)
+{% include base_path %} [Download](http://famunia.github.io/files/Farzana_Ahmed_Munia_CV.pdf)
 
 Education
 ======
